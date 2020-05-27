@@ -11,8 +11,6 @@
 #include<iostream> //C++标准输入输出库
 using namespace std;
 
-//图片存放路径
-string filepath = "/home/linux/work/catkin_ws/src/opcv_ros/src/1.png";
 
 int main(int argc, char *argv[])
 {
